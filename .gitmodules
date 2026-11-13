@@ -10,3 +10,6 @@
 [submodule "nostr-relay"]
 	path = nostr-relay
 	url = https://github.com/gnostr-org/nostr-relay.git
+[submodule "curve25519-dalek"]
+	path = curve25519-dalek
+	url = https://github.com/gnostr-org/curve25519-dalek.git
