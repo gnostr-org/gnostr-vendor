@@ -19,3 +19,6 @@
 [submodule "actix-web"]
 	path = actix-web
 	url = https://github.com/gnostr-org/actix-web.git
+[submodule "asn1-rs"]
+	path = asn1-rs
+	url = https://github.com/gnostr-org/asn1-rs.git
