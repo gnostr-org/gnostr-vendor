@@ -16,3 +16,6 @@
 [submodule "rpassword"]
 	path = rpassword
 	url = https://github.com/gnostr-org/rpassword.git
+[submodule "actix-web"]
+	path = actix-web
+	url = https://github.com/gnostr-org/actix-web.git
