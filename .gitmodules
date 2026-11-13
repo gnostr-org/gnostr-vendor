@@ -22,3 +22,6 @@
 [submodule "asn1-rs"]
 	path = asn1-rs
 	url = https://github.com/gnostr-org/asn1-rs.git
+[submodule "gitui"]
+	path = gitui
+	url = https://github.com/gnostr-org/gitui.git
