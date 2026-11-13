@@ -1,0 +1,3 @@
+[submodule "ed25519-dalek"]
+	path = ed25519-dalek
+	url = https://github.com/gnostr-org/curve25519-dalek.git
