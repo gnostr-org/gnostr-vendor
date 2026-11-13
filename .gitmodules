@@ -7,3 +7,6 @@
 [submodule "lindera"]
 	path = lindera
 	url = https://github.com/gnostr-org/lindera.git
+[submodule "nostr-relay"]
+	path = nostr-relay
+	url = https://github.com/gnostr-org/nostr-relay.git
