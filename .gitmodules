@@ -4,3 +4,6 @@
 [submodule "pkarr"]
 	path = pkarr
 	url = https://github.com/gnostr-org/pkarr.git
+[submodule "lindera"]
+	path = lindera
+	url = https://github.com/gnostr-org/lindera.git
