@@ -13,3 +13,6 @@
 [submodule "curve25519-dalek"]
 	path = curve25519-dalek
 	url = https://github.com/gnostr-org/curve25519-dalek.git
+[submodule "rpassword"]
+	path = rpassword
+	url = https://github.com/gnostr-org/rpassword.git
