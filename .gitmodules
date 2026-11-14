@@ -25,3 +25,6 @@
 [submodule "gitui"]
 	path = gitui
 	url = https://github.com/gnostr-org/gitui.git
+[submodule "ipfs"]
+	path = ipfs
+	url = https://github.com/gnostr-org/ipfs.git
